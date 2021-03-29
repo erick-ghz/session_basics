@@ -1,3 +1,3 @@
 # Session basics
 
-Practicing with actix-session Rust's crate.
+Practicing with actix-session, a Rust's crate.
